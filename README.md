@@ -1,4 +1,15 @@
-# SYSTEM-FOR-EFFICIENCY-OF-ELECTRICITY-CONSUMPTION
+## SYSTEM-FOR-EFFICIENCY-OF-ELECTRICITY-CONSUMPTION
+
+o	To monitor and control the Energy consumption,
+
+o Indoor and Outdoor temperature and humidity, 
+
+o People counting, 
+
+o Water and Gas consumption. 
+
+We design a system by using a famous IoT platform (PaaS) and LoRaWAN based sensors with MikroTik gateway and ChirpStack Network server. 
+Also, we used the MQTT protocol to publish the values to the Cloud for some reason. We used DRAGINO, EASTRON, BMeters and ADEUNIS sensor brands. 
 
 🚩 Connect with me on social
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ariful-islam-arif-2987b51a3/)
