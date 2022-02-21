@@ -1,4 +1,5 @@
-# SYSTEM-FOR-EFFICIENCY-OF-ELECTRICITY-CONSUMPTION
+## Monitoring, Controlling and Cost reducing: Energy, Water and Gas consumption
+### IoT Solution by LoRaWAN for McDonald’s restaurants
 
 -	To monitor and control the Energy consumption,
 
