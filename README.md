@@ -31,7 +31,7 @@
 
 ### Restaurant plan:
 
-<div style="text-align: justify">With the restaurant plan, it is easy for us to figure out where we will set all the devices. We need a strong Wi-Fi connection with no interruption. LoRaWAN networks cannot function without the internet. Also, we haven't any right to change their main design so we have to consider a lot of things with the existing design.<div>
+<div style="text-align: justify">With the restaurant plan, it is easy for us to figure out where we will set all the devices. We need a strong Wi-Fi connection with no interruption. LoRaWAN networks cannot function without the internet. Also, we haven't any right to change their main design so we have to consider a lot of things with the existing design.<div><br>
 
 <img src= "IMG/Restaurant plan.png" width=800>
   
