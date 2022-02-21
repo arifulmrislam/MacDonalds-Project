@@ -29,6 +29,10 @@
 
 ---
 
+### Restaurant plan:
+
+<img src= "IMG/Restaurant plan.png" width=800>
+
 🚩 Connect with me on social
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ariful-islam-arif-2987b51a3/)
 - Twitter: [Twitter](https://twitter.com/arifulislam301)
