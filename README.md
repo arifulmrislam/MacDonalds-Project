@@ -7,6 +7,7 @@
 </div> <br>
 
 <img src= "IMG/Mcdonalds dashboard.png" width=800>
+
 ---
 ### Project Agenda:
 
