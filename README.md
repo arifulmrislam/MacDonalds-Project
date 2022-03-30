@@ -28,6 +28,8 @@
 
 `Famouse IoT platform (SaaS)` `ChirpStack Network server` `MQTT` `HTTP` `LoRaWAN network` `PostgreSQL (free and open-source relational database) `
 
+<img src= "IMG/Schema bloc noua.png" width=800>
+
 ### Hardware:
 
 `Dragino rs485 to lorawan converter` `Eastron energy meter` `Mikrotik Gateway` `internet switch access port` `LoRa temperature sensor (Adeunis)` `Natural gas meter`
