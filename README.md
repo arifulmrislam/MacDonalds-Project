@@ -28,7 +28,7 @@
 
 `Famouse IoT platform (SaaS)` `ChirpStack Network server` `MQTT` `HTTP` `LoRaWAN network` `PostgreSQL (free and open-source relational database) `
 
-<img src= "IMG/Schema bloc noua.pdf" width=500>
+<img src= "IMG/Design.png" width=500>
 
 ### Hardware:
 
