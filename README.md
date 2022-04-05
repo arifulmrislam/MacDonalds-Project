@@ -13,7 +13,7 @@
 <img src= "IMG/Mcdonalds dashboard.png" width=800>
 
 ---
-### Project Agenda:
+### Project Agenda
 
 -	To monitor and control the Energy consumption,
 
@@ -24,20 +24,20 @@
 - Water and Gas consumption. 
 ---
 
-### Technologies:
+### Technologies
 
 `Famouse IoT platform (SaaS)` `ChirpStack Network server` `MQTT` `HTTP` `LoRaWAN network` `PostgreSQL (free and open-source relational database) `
 
 <img src= "IMG/Design.png" width=800>
 
-### Hardware:
+### Hardware
 
 `Dragino rs485 to lorawan converter` `Eastron energy meter` `Mikrotik Gateway` `internet switch access port` `LoRa temperature sensor (Adeunis)` `Natural gas meter`
 `Water meter (Bmeter)` `Tetrapolar circuit breaker` `current transformer`
 
 ---
 
-### Restaurant plan:
+### Restaurant plan
 
 <div style="text-align: justify">With the restaurant plan, it is easy for us to figure out where we will set all the devices. We need a strong Wi-Fi connection with no interruption. LoRaWAN networks cannot function without the internet. Also, we haven't any right to change their main design so we have to consider a lot of things with the existing design.<div><br>
 
