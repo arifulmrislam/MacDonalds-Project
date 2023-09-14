@@ -34,7 +34,9 @@
 ### Hardware
 
 `Dragino rs485 to Lorawan converter` 
-`Eastron energy meter` 
+---
+`Eastron energy meter`
+---
 `Mikrotik Gateway` 
 `Internet switch access port` 
 `LoRa temperature sensor (Adeunis)` 
