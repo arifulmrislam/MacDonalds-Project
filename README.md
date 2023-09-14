@@ -27,7 +27,11 @@
 
 ### Technologies
 
-`Famouse IoT platform (SaaS)` `ChirpStack Network server` `MQTT` `HTTP` `LoRaWAN network` `PostgreSQL (free and open-source relational database) `
+- `Famous IoT platform (SaaS)`
+- `ChirpStack Network server`
+- `MQTT` `HTTP`
+- `LoRaWAN network`
+- `PostgreSQL (free and open-source relational database) `
 
 <img src= "IMG/Design.png" width=800>
 
