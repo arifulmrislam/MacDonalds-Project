@@ -16,13 +16,13 @@
 ---
 ### Project Agenda
 
--	To monitor and control the Energy consumption,
+-	`To monitor and control the Energy consumption`,
 
-- Indoor and Outdoor temperature and humidity, 
+- `Indoor and Outdoor temperature and humidity`, 
 
-- People counting, 
+- `People counting`, 
 
-- Water and Gas consumption. 
+- `Water and Gas consumption`. 
 ---
 
 ### Technologies
