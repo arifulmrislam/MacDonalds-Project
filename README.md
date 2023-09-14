@@ -33,8 +33,15 @@
 
 ### Hardware
 
-`Dragino rs485 to lorawan converter` `Eastron energy meter` `Mikrotik Gateway` `internet switch access port` `LoRa temperature sensor (Adeunis)` `Natural gas meter`
-`Water meter (Bmeter)` `Tetrapolar circuit breaker` `current transformer`
+`Dragino rs485 to Lorawan converter` 
+`Eastron energy meter` 
+`Mikrotik Gateway` 
+`Internet switch access port` 
+`LoRa temperature sensor (Adeunis)` 
+`Natural gas meter`
+`Water meter (Bmeter)` 
+`Tetrapolar circuit breaker` 
+`current transformer`
 
 ---
 
