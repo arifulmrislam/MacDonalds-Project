@@ -17,11 +17,8 @@
 ### Project Agenda
 
 -	`To monitor and control the Energy consumption`
-
 - `Indoor and Outdoor temperature and humidity`
-
 - `People counting`
-
 - `Water and Gas consumption`
 ---
 
